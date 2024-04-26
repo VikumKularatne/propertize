@@ -1,0 +1,33 @@
+{
+    "name": "Riverside Mansion in Bath",
+    "address": "12 Pulteney Road, Bath BA2 4EZ",
+    "description": "Stunning river views, central location",
+    "image": "https://bafybeidatmd7gxio6i6uvvzppot2pcrcj4fmmouzwc5uzor4ghoe6wc5w4.ipfs.nftstorage.link/5.jpeg",
+    "id": "5",
+    "attributes": [
+        {
+            "trait_type": "Purchase Price",
+            "value": 250
+        },
+        {
+            "trait_type": "Type of Residence",
+            "value": "Mansion"
+        },
+        {
+            "trait_type": "Bed Rooms",
+            "value": 5
+        },
+        {
+            "trait_type": "Bathrooms",
+            "value": 4
+        },
+        {
+            "trait_type": "Square Feet",
+            "value": 4320
+        },
+        {
+            "trait_type": "Year Built",
+            "value": 2013
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "name": "Modern City Loft in Leeds",
+    "address": "55 Water Lane, Leeds LS11 5QN",
+    "description": "Contemporary loft living in central Leeds",
+    "image": "https://bafybeidatmd7gxio6i6uvvzppot2pcrcj4fmmouzwc5uzor4ghoe6wc5w4.ipfs.nftstorage.link/3.jpeg",
+    "id": "3",
+    "attributes": [
+        {
+            "trait_type": "Purchase Price",
+            "value": 100
+        },
+        {
+            "trait_type": "Type of Residence",
+            "value": "Single family residence"
+        },
+        {
+            "trait_type": "Bed Rooms",
+            "value": 2
+        },
+        {
+            "trait_type": "Bathrooms",
+            "value": 2
+        },
+        {
+            "trait_type": "Square Feet",
+            "value": 2130
+        },
+        {
+            "trait_type": "Year Built",
+            "value": 2021
+        }
+    ]
+}

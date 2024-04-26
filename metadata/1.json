@@ -1,0 +1,33 @@
+{
+    "name": "Elegant London Townhouse",
+    "address": "10 Kensington Palace Gardens, London W8 4PP",
+    "description": "Prestigious Kensington location, spacious and luxurious",
+    "image": "https://bafybeidatmd7gxio6i6uvvzppot2pcrcj4fmmouzwc5uzor4ghoe6wc5w4.ipfs.nftstorage.link/1.jpeg",
+    "id": "1",
+    "attributes": [
+        {
+            "trait_type": "Purchase Price",
+            "value": 200
+        },
+        {
+            "trait_type": "Type of Residence",
+            "value": "Mansion"
+        },
+        {
+            "trait_type": "Bed Rooms",
+            "value": 5
+        },
+        {
+            "trait_type": "Bathrooms",
+            "value": 4
+        },
+        {
+            "trait_type": "Square Feet",
+            "value": 3300
+        },
+        {
+            "trait_type": "Year Built",
+            "value": 2019
+        }
+    ]
+}

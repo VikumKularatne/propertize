@@ -1,0 +1,33 @@
+{
+    "name": "Coastal Retreat in Cornwall",
+    "address": "23 Beach Road, St Ives, Cornwall TR26 1JY",
+    "description": "Beautiful sea views, modern amenities",
+    "image": "https://bafybeidatmd7gxio6i6uvvzppot2pcrcj4fmmouzwc5uzor4ghoe6wc5w4.ipfs.nftstorage.link/2.jpeg",
+    "id": "2",
+    "attributes": [
+        {
+            "trait_type": "Purchase Price",
+            "value": 150
+        },
+        {
+            "trait_type": "Type of Residence",
+            "value": "Villa"
+        },
+        {
+            "trait_type": "Bed Rooms",
+            "value": 3
+        },
+        {
+            "trait_type": "Bathrooms",
+            "value": 2
+        },
+        {
+            "trait_type": "Square Feet",
+            "value": 3790
+        },
+        {
+            "trait_type": "Year Built",
+            "value": 2015
+        }
+    ]
+}

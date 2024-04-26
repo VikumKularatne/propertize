@@ -1,0 +1,33 @@
+{
+    "name": "Cosy Cottage in the Cotswolds",
+    "address": "5 Market Place, Chipping Campden, GL55 6AN",
+    "description": "Charming, historic, idyllic countryside location",
+    "image": "https://bafybeidatmd7gxio6i6uvvzppot2pcrcj4fmmouzwc5uzor4ghoe6wc5w4.ipfs.nftstorage.link/4.jpeg",
+    "id": "4",
+    "attributes": [
+        {
+            "trait_type": "Purchase Price",
+            "value": 180
+        },
+        {
+            "trait_type": "Type of Residence",
+            "value": "Mansion"
+        },
+        {
+            "trait_type": "Bed Rooms",
+            "value": 3
+        },
+        {
+            "trait_type": "Bathrooms",
+            "value": 3
+        },
+        {
+            "trait_type": "Square Feet",
+            "value": 3520
+        },
+        {
+            "trait_type": "Year Built",
+            "value": 2017
+        }
+    ]
+}
